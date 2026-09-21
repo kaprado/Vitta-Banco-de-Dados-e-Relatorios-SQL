@@ -118,7 +118,7 @@ O MER representa as entidades e seus relacionamentos de acordo com as regras de 
 
 O diagrama de classes representa a estrutura das principais classes e seus relacionamentos no sistema.
 
-![Diagrama de Classes](diagramas/Diagrama-de-Classes.png)
+![Diagrama de Classes](diagramas/Diagrama-Classes.png)
 
 ---
 
