@@ -122,7 +122,7 @@ O diagrama de classes representa a estrutura das principais classes e seus relac
 
 ## Código SQL
 
-[Ver código SQL](SQL/)
+[Ver código SQL](diagramas/SQL/)
 
 
 # SQL desenvolvido
